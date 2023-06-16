@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/japanese-food/static/css/main.a97557c6.css",
-    "main.js": "/japanese-food/static/js/main.5e6b9023.js",
+    "main.js": "/japanese-food/static/js/main.8f176e2b.js",
     "static/media/sushi.jpg": "/japanese-food/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
     "index.html": "/japanese-food/index.html",
     "main.a97557c6.css.map": "/japanese-food/static/css/main.a97557c6.css.map",
-    "main.5e6b9023.js.map": "/japanese-food/static/js/main.5e6b9023.js.map"
+    "main.8f176e2b.js.map": "/japanese-food/static/js/main.8f176e2b.js.map"
   },
   "entrypoints": [
     "static/css/main.a97557c6.css",
-    "static/js/main.5e6b9023.js"
+    "static/js/main.8f176e2b.js"
   ]
 }
