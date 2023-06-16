@@ -14,9 +14,9 @@ const ModalWindow = (props) => {
   );
 };
 
-const portalElement = document.getElementById("overlays");
-
 const Modal = (props) => {
+  const portalElement = document.getElementById("root"); // Используем "root" вместо "overlays"
+
   return (
     <React.Fragment>
       {ReactDOM.createPortal(
